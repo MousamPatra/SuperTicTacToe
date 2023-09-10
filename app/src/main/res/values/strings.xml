@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Super Tic Tac Toe</string>
+
+    <string name="cell_fill_O_or_X"> </string>
+    <string name="demo_string">This is a demo string</string>
+
+</resources>

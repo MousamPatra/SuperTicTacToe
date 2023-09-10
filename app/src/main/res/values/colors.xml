@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grid_color">#286AED</color>
+
+    <color name="win_background_color">#40C4FF</color>
+    <color name="win_text_color">#010723</color>
+    <color name="game_state_text_color">#400000</color>
+
+
+</resources>
